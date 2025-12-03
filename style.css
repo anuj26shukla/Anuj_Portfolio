@@ -375,7 +375,7 @@ video{
 #page4 h1{
     font-size: 200px;
     position: absolute;
-    top: 20px;
+    top: -10px;
     font-weight: 900;
     color: #000;
     -webkit-text-stroke: 0.5px #fff;
