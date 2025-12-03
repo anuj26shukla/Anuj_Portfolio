@@ -368,10 +368,11 @@ video{
     height: 100%;
     width: 100%;
     object-fit: cover;
+    object-position: top;
     scale: 1.1;
 }
 .elem:hover h2{
-    color: #fff;
+    color: none;
     background-color: transparent;
 }
 .elem:hover img{
