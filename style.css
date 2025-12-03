@@ -221,10 +221,10 @@ video{
     line-height: 30px;
 }
 #about-us-in span{
-    font-size: 25px;
+    font-size: 20px;
     line-height: 30px;
-    color: #95C11E;
-    -webkit-text-stroke: 0.4px #fff ;
+    color: #000;
+    -webkit-text-stroke: 0.3px #fff ;
 }
 #cards-container{
     height: 60vh;
